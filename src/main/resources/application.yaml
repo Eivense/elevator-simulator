@@ -1,0 +1,13 @@
+control:
+  system:
+    floorNum: 11
+    elevatorNum: 3
+    properties:
+      upCost: 0.6
+      ratio: 0.5
+logging:
+  level:
+    eivense.coding.quiz.service.impl: debug
+    eivense.coding.quiz.entity.elevator: debug
+
+

@@ -1,0 +1,8 @@
+control:
+  system:
+    floorNum: 11
+    elevatorNum: 3
+    properties:
+      upCost: 0.6
+
+
