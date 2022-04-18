@@ -7,7 +7,7 @@ control:
       ratio: 0.5
 logging:
   level:
-    eivense.coding.quiz.service.impl: debug
-    eivense.coding.quiz.entity.elevator: debug
+    eivense.elevator.service.impl: debug
+    eivense.elevator.entity.elevator: debug
 
 

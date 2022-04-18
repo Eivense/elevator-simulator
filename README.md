@@ -1,8 +1,9 @@
 # README
 
 Use `Gradle` to build the project. For more information, see `build.gradle`.<p>
-Then run the main class `VmwareCodingQuizApplication` as the simple `springboot` project.
+Then run the main class `ElevatorApplication` as the simple `springboot` project.
 
+GitHub `https://github.com/Eivense/elevator-simulator`
 ## Dependencies
 - gradle 7.4.1 use gradle-wrapper
 - org.springframework.boot 2.6.6 
