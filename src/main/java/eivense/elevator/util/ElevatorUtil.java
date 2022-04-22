@@ -66,7 +66,7 @@ public class ElevatorUtil {
      * 对任务进行排序
      * <p>
      * 类似磁盘寻道的电梯调度算法
-     *
+     * 第一次排序 O(nlogn)
      * 三次遍历 O(n)
      *
      * @param taskQueue 任务队列

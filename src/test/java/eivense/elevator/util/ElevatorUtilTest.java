@@ -1,7 +1,6 @@
 package eivense.elevator.util;
 
 import eivense.elevator.entity.Direction;
-import eivense.coding.quiz.entity.elevator.*;
 import eivense.elevator.entity.elevator.*;
 import eivense.elevator.entity.passenger.Passenger;
 import org.junit.jupiter.api.Test;
